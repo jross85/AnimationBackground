@@ -1,0 +1,26 @@
+<!-- Animation frames are wheel0.png through wheel5.png
+     files inside the res/drawable/ folder -->
+<animation-list android:id="@+id/selected"
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/tmp8" android:duration="150" />
+    <item android:drawable="@drawable/tmp9" android:duration="150" />
+    <item android:drawable="@drawable/tmp10" android:duration="150" />
+    <item android:drawable="@drawable/tmp11" android:duration="150" />
+    <item android:drawable="@drawable/tmp12" android:duration="150" />
+    <item android:drawable="@drawable/tmp13" android:duration="150" />
+    <item android:drawable="@drawable/tmp14" android:duration="150" />
+    <item android:drawable="@drawable/tmp15" android:duration="150" />
+    <item android:drawable="@drawable/tmp16" android:duration="150" />
+    <item android:drawable="@drawable/tmp17" android:duration="150" />
+    <item android:drawable="@drawable/tmp18" android:duration="150" />
+    <item android:drawable="@drawable/tmp19" android:duration="150" />
+    <item android:drawable="@drawable/tmp20" android:duration="150" />
+    <item android:drawable="@drawable/tmp21" android:duration="150" />
+    <item android:drawable="@drawable/tmp22" android:duration="150" />
+    <item android:drawable="@drawable/tmp23" android:duration="150" />
+    <item android:drawable="@drawable/tmp24" android:duration="150" />
+    <item android:drawable="@drawable/tmp25" android:duration="150" />
+    <item android:drawable="@drawable/tmp26" android:duration="150" />
+    <item android:drawable="@drawable/tmp27" android:duration="150" />
+</animation-list>
